@@ -8,8 +8,8 @@ btnAbrir.addEventListener("click", () => {
 
   const h1 = document.querySelector("h1");
   const p = document.querySelector("p");
-  h1.style.transform = "translateY(-162.5px)";
-  p.style.transform = "translateY(-162.5px)";
+  h1.style.transform = "translateY(-180px)";
+  p.style.transform = "translateY(-180px)";
   h1.style.transition = "transform 0.65s ease-in-out";
   p.style.transition = "transform 0.65s ease-in-out";
 
